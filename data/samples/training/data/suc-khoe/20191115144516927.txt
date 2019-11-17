@@ -1,0 +1,76 @@
+bệnh_nhân nhập_viện tình_trạng ngừng tim
+hôn_mê sâu sốt_xuất_huyết
+dân_trí bệnh_nhân nhập_viện tình_trạng ngừng tim
+ngừng thở
+hôn_mê sâu
+da môi tím_tái
+cấp_cứu tuần_hoàn trở_lại
+bệnh_nhân _thể diễn_biến
+dịch sốt_xuất_huyết tiếp_tục diễn_biến phức_tạp miền trung
+trước_đó
+12 11
+bệnh_nhân t
+đ
+q sn 1967
+trú phường đông_lễ
+tp đông_hà nhập_viện tình_trạng ngừng tim
+ngừng thở
+hôn_mê sâu
+da môi tím_tái
+tuy_nhiên
+tiếp_xúc da ấm bệnh_viện đa_khoa tỉnh quảng_trị tiến_hành cấp_cứu
+hồi_sức tích_cực
+bệnh_nhân q
+mạch
+huyết_áp trở_lại
+tiếp_tục một_số xét_nghiệm nguyên_nhân ghi_nhận bệnh_nhân q
+suy chức_năng đa phủ_tạng
+test công_thức máu phát_hiện bệnh_nhân q
+dấu_hiệu bệnh sxh bệnh_viện xử_trí
+điều_trị hướng sxh
+tuy_nhiên
+diễn_biến bệnh q
+ngày_càng tử_vong 12 11
+sở y_tế tỉnh quảng_trị
+khai_thác người_nhà bệnh_nhân q
+ốm 4
+5
+cơ_sở y_tế điều_trị
+người_nhà phát_hiện q
+tri_giác cấp_tốc bệnh_viện
+đầu quảng_trị ghi_nhận 5
+010 trường_hợp mắc bệnh sxh
+tình_hình bệnh sốt_xuất_huyết bùng_phát diễn_biến phức_tạp hiện_nay
+sở y_tế quảng_trị khuyến_cáo dân biểu_hiện sốt cơ_sở y_tế chẩn_đoán
+điều_trị kịp_thời
+trung_tâm kiểm_soát bệnh_tật tp đà_nẵng
+nguyên_nhân chủ_yếu tình_trạng dịch diễn_biến phức_tạp điều_kiện thời_tiết
+giao mùa
+ca cơ_sở y_tế khuyến_cáo điều_trị bệnh_viện đà_nẵng bệnh_viện phụ_sản nhi
+hiện_tại
+bệnh_viện đà_nẵng
+khoa y_học nhiệt_đới bệnh_viện quá_tải bệnh_nhân _trị
+khoa y_học nhiệt_đới
+bệnh_nhân nằm ghép giường tháng_qua
+ca điều_trị khoa duy_trì 200 ca
+30 viện tuyến
+bệnh_viện tỉnh_thành lân_cận
+khoa y_học nhiệt_đới tăng_cường cơ_số giường
+huy_động
+tăng_cường y
+bác_sĩ đáp_ứng nhu_cầu thu_dung
+điều_trị bệnh_nhân
+tỷ_lệ bệnh khoa chiếm 5
+5 tổng_số ca bệnh
+hiện_tại đà_nẵng mùa mưa thời_tiết lạnh
+thời_điểm phù_hợp bọ_gậy
+muỗi phát_triển lây_lan dịch_bệnh
+vì_vậy dân chủ_động
+tự_giác thực_hiện tuần 2 dọn vệ_sinh diệt lăng_quăng
+bọ_gậy
+khu dân_cư
+góp_phần chế dịch
+muỗi sốt_xuất_huyết
+bác_sĩ đặng_quang_ánh
+khoa phòng_chống bệnh truyền_nhiễm
+trung_tâm kiểm_soát bệnh_tật tp đà_nẵng khuyến_cáo

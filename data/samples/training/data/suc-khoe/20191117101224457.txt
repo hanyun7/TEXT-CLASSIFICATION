@@ -1,0 +1,38 @@
+cà_mau 150 bác_sĩ nghỉ_việc bệnh_viện công
+ngành y_tế yêu_cầu báo_cáo khẩn
+dân_trí sở y_tế tỉnh cà_mau văn_bản khẩn
+yêu_cầu cơ_sở y_tế trực_thuộc báo_cáo gấp tình_trạng cán_bộ
+công_chức ngành y_tế nghỉ_việc
+sở y_tế cà_mau
+thời_gian
+tình_trạng công_chức
+viên_chức trình_độ đại_học trở khối chuyên_ngành sức_khỏe nghỉ_việc
+tiếp_tục chiều_hướng gia_tăng
+ảnh_hưởng hoạt_động đơn_vị
+ghi_nhận pv dân_trí
+công_chức
+viên_chức nghỉ_việc chủ_yếu bác_sĩ bệnh_viện công
+thực_trạng
+sở y_tế cà_mau yêu_cầu đơn_vị y_tế khẩn_trương tổng_hợp
+báo_cáo gấp số_lượng cụ_thể công_chức
+viên_chức chuyên_ngành y_tế bác_sĩ
+dược_sĩ
+cử_nhân điều_dưỡng
+lý_do nghỉ_việc
+nm_việc
+thời_điểm công_chức
+viên_chức nghỉ_việc
+1 3 2019 1 11 2019
+sở y_tế cà_mau
+báo_cáo sở _liệu đề_xuất
+ngành chức_năng biện_pháp khắc_phục
+dân_trí
+thống_kê sở y_tế cà_mau
+2015 2019
+ngành y_tế tỉnh 150 bác_sĩ nghỉ_việc bệnh_viện công
+9 2019
+20 bác_sĩ nghỉ_việc bệnh_viện công
+bệnh_viện
+phòng_khám tư_nhân
+nguyên_nhân ngành y_tế cà_mau thu_nhập bệnh_viện công vật_giá hiện_nay
+chênh_lệch thu_nhập cơ_sở y_tế tư_nhân
